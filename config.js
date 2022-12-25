@@ -31,28 +31,28 @@ global.sig = 'https://instagram.com/fathurxyz'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
 global.sgh = 'https://github.com/XynZzz'
 global.sgc = 'https://chat.whatsapp.com/FBeLMDyVRGOKDIxZ5ykM5M'
-global.swa = 'wa.me/628566732166'
+global.swa = 'wa.me/6285608468994'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '081260431003'
+global.pdana = '6285608468994'
 global.povo = '-'
-global.pgopay = '081260431003'
-global.ppulsa = '081260431003'
+global.pgopay = '6285608468994'
+global.ppulsa = '6285608468994'
 global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '0812604310031'
-global.nomorown = '628566732166'
-global.namebot = 'Elaina Botラ'
-global.nameown = 'Owner Elaina Bot ×፝֟͜×'
+global.nomorbot = '085608468994'
+global.nomorown = '6285608468994'
+global.namebot = 'Ishika Botラ'
+global.nameown = 'Owner Ishika Bot ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628566732166', 'Fathur999 ×፝֟͜×', 'true']
+  ['6285608468994', 'Ishika ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -108,11 +108,11 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴇʟᴀɪɴᴀ - ᴄʜᴀɴ˘ฅ
 global.wm3 = '⫹⫺ ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ' | ʙʏ ${global.nameown}`
-global.author = 'Fathur999×፝֟͜×' 
+global.titlebot = `🎋 Ishika' | ʙʏ ${global.nameown}`
+global.author = 'Ishika×፝֟͜×' 
 global.packname = '                「 ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃 汉  」'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'November 4 2023'
+global.ultahowner = 'Agustus 15 2023'
 
 
 /*============== LOGO ==============*/
@@ -127,10 +127,10 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃 汉 Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Fathur999* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/b9e8c2f76d43ddf869f5a.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Fathur999 ×፝֟͜×'
-global.umurowner = '18'
+global.nameowner = 'kepo ×፝֟͜×'
+global.umurowner = '9999'
 global.asalowner = 'Amerika Serikat, Korea'
-global.nomorowner = 'wa.me/628566732166'
+global.nomorowner = 'wa.me/6285608468994'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
